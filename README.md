@@ -1,1 +1,1 @@
-# Pseudo-compiler---An-Intermediate-representation
+A Small compiler developed using C
